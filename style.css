@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(164, 200, 231);
+}
+
+div{
+    margin-left: 250px;
+    margin-top: 80px;
+    background-color: calc(orange ,white);
+}
+
+input{
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+button{
+    font-size: 30px;
+}
+
+ul{
+    background-color: white;
+    width: 400px;
+    margin: 10px;
+    font-size: 30px;
+    gap : 30px;
+   
+}
+li{
+    display: flex;
+    gap: 300px;
+}
+
