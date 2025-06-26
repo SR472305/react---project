@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header_part{
+    /* border: solid black; */
+    height: 200px;
+    background-color: #1E90FF;
+    color: #fff;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 50px;
+}
+
+.Sidebar{
+    /* border: solid black; */
+    height: calc(100vh - 200px);
+    width :400px;
+    background-color: #FFFFF0;
+    text-align: center;
+     padding-top: 200px;
+     float: left;
+}
+
+.card{
+    /* border: solid white; */
+    width : 800px;
+    padding : 30px;
+    box-shadow: 5px 5px;
+    background-color: #FFFFF0;
+    margin-top: 150px;
+    margin-left: 500px;
+    border-radius: 10px;
+}
